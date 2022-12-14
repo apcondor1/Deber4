@@ -8,11 +8,15 @@ NRC: 10063-202251
 
 Objetivo general
 
-Estudiar el como se comporatan los dos tipos de circuitos, para que en posteriores practicas podamos conocer el porque de las cosas. Objetivo especifico
+Analizar la relacion que existe entre circuitos en serie y paralelo
 
-Analizar circuitos las 3 magnitudes principales que circulan por un circuito en serie, realizar ejercicios para entender de mejor manera.
+Objetivos especificos
 
-Obtener la capacidad analitica para poder llevar a cabo la resolucion de ejercicios que empleen circuitos en serie-paralelo (mixtos). Marco teorico
+* Analizar los divisores de voltaje con carga
+* Dete4rminar el efecto de cargo de un volmientro en un circuito electrico
+* Analizar las redes en escalera, aplicar el punte de Wheatstone
+
+Marco teorico
 
 Capitulo 7
 
@@ -331,10 +335,135 @@ Va/2.2k=0.97/2.2k =0.10v
 ![image](https://user-images.githubusercontent.com/117843879/207381787-dc787a9d-40a5-4f50-ac25-d2bb55c22f25.png)
 
 
+
+
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
 ![image](https://user-images.githubusercontent.com/117843879/207381912-35d6c8bc-114d-4f9a-b866-17a7371f5465.png)
 
+
+![image](https://user-images.githubusercontent.com/117843879/207643300-d768f9dd-b203-4013-9b6f-d877be355d5e.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207643340-b381a96c-0b72-4f78-853c-36572d117b38.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207643361-a359380d-f8f2-44f8-bf87-03e1634c4434.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207643393-1cfe694c-ab7e-42e8-9084-530b86252b8d.png)
+
+
+12. Repita el problema 11 si R2 es de 10 kÆ
+
+![image](https://user-images.githubusercontent.com/117843879/207643521-cacfe8f1-4b16-45d2-9325-7804d98ba691.png)
+
+
+Se compara con el voltaje de refercia y se genera una salida negativa si el Vreferecia> Venreada deo contrario es positiva
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interrupto
+
+![image](https://user-images.githubusercontent.com/117843879/207643881-b7de6913-03f4-44c9-9450-ff11e25f2d55.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207643917-04d388d1-ce2f-40c6-84cb-fe97990e2e38.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207643974-cb99fcad-1f0c-4b30-a406-c8751d486234.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207644015-920ea13b-6681-452f-aa76-61abc28955ff.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644064-542f1d88-e498-454d-9e0e-1694ba0e7813.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644096-1090eed5-c7f1-46b2-8639-a3a1ea839690.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207644128-db65ccbe-4d35-4926-817b-8a9e2cf952f4.png)
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644241-23abe8f2-6231-4293-af08-58c22ac47279.png)
+
+
+th
+![image](https://user-images.githubusercontent.com/117843879/207644362-37a21dca-2ddc-4933-9653-ac99c14d03c9.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207644492-9a0e7483-6a1b-41ef-8716-c59c10221d30.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644536-4a77f619-c0ed-4f0c-97ee-d762cd4c36a4.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207644571-9624b423-23ae-4cae-a1ae-bcbde8bf1706.png)
+
+
+18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/117843879/207644646-f485d3ee-40a4-4749-a82b-8e55c0892240.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644676-0e3e7a93-6dce-4f20-a649-2678734cf3d2.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207644704-e6bfaf5c-3d1e-4e1c-b401-bda5ffafb9f0.png)
+
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644794-46e543b7-b8d1-4860-81ba-a968887f8df5.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644830-998160c3-fe31-43c3-ab96-877679d8e864.png)
+
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644927-7890e666-ae8a-41a3-85cc-58620d90ae1d.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207644968-d26440f2-8bdd-4e22-810d-3751464e4908.png)
+
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
+R8 5 8 kÆ.
+
+![image](https://user-images.githubusercontent.com/117843879/207645044-4731e62e-b54b-4b62-98a4-1842c2a9b0cf.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207645070-83e10637-8123-499c-b293-2c94051fd674.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207645122-60e1a5e6-1def-45e1-b885-5f32c75b102a.png)
+
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton
+
+![image](https://user-images.githubusercontent.com/117843879/207645233-53ad0e92-3eec-4d23-9579-2c324e1e85cb.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207645277-1c08a77d-4596-47c8-810f-8f5937817f41.png)
+
+
+![image](https://user-images.githubusercontent.com/117843879/207645311-c070a40e-0ea2-4485-bfdb-bcf85a148306.png)
+
+
+34. En la figura 8-88, convierta cada red delta en una red Y
+
+![image](https://user-images.githubusercontent.com/117843879/207645564-9769201f-cac4-4b41-9978-165948907206.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207645598-40796b12-c8cc-4610-ab5f-a8a34f9f957e.png)
+
+![image](https://user-images.githubusercontent.com/117843879/207645640-a311aff7-285f-4b36-857c-ec2126ce028c.png)
+
+
+Video
+
+Conclusiones y bibliogradicas
+
+* El teorema de Thevenin y Norton nos ayuda a simplificar un circuito extenso nos sirve para calcular una resistencia y voltaje equivalente ahi atravez de llegar a sus respectivos circuitos equivalentes podemos calcular lo que nos pida el theorema de thevenin nos queda en funcion de voltje y el de Norton en funcion de una fuente resistencia.
+
+* En un circuito se pueden encontrar resistencias en serie y en paralelo y se tienen que analizar correctamente para encontrar una resistencia equivalente que nos servira despues para los diferentes teoremas
+
+* Floyd, T. L. F. (2006). Principios de circuitos electronicos (Octava edicion). Pearson education
 
 
 
