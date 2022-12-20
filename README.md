@@ -457,6 +457,8 @@ R8 5 8 kÆ.
 
 Video
 
+https://youtu.be/Y5Z9VvCYOOo
+
 Conclusiones y bibliogradicas
 
 * El teorema de Thevenin y Norton nos ayuda a simplificar un circuito extenso nos sirve para calcular una resistencia y voltaje equivalente ahi atravez de llegar a sus respectivos circuitos equivalentes podemos calcular lo que nos pida el theorema de thevenin nos queda en funcion de voltje y el de Norton en funcion de una fuente resistencia.
