@@ -20,7 +20,13 @@ Marco teorico
 
 Capitulo 7
 
+![image](https://user-images.githubusercontent.com/117843879/208693653-b5705a00-aad3-4725-bd50-19aaf16441a7.png)
+
+
 Capitulo 8
+
+![image](https://user-images.githubusercontent.com/117843879/208693712-b91c888c-0088-412e-8693-626d36fe5f35.png)
+
 
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
 
